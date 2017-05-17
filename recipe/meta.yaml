@@ -1,6 +1,6 @@
 {% set name = "dask-ndfourier" %}
-{% set version = "0.1.0" %}
-{% set sha256 = "4e1797a26a459b0e9d557c5578cc2c25ebe5902339b6d3687490c3d0fe064929" %}
+{% set version = "0.1.1" %}
+{% set sha256 = "5fd1c5eef2a98a0f749795245aa5ee0d498da3f14c4c6782b5616df0cfeb9e26" %}
 
 package:
   name: {{ name|lower }}
